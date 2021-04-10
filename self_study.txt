@@ -1,0 +1,40 @@
+--> What is a Software Development Life Cycle?
+
+
+
+--> LAMP Stack Definition?
+
+
+
+
+--> ‘chmod’ and ‘chown’ commands in Linux
+
+
+
+--> TCP Explained
+
+
+
+--> UDP Explained
+
+
+
+--> Common ports used on the Web
+
+
+
+
+
+
+
+
+
+
+
+--> Helpful Resources
+Understanding Client Side & Server Side
+https://www.youtube.com/watch?v=1SwWo0wHx6Q
+
+
+Understanding a LAMP stack
+https://www.youtube.com/watch?v=WY8jwTNYTfg
